@@ -23,6 +23,7 @@ Bookmarks
 <dt>[Discuss Nightly on IRC](https://mibbit.com/?server=irc.mozilla.org&channel=%23nightly)</dt>
 
 <dt>[Planet Mozilla](https://planet.mozilla.org/)</dt>
+  <dt>[arcane](https://bestapk4u.com)</dt>
 
 </dl>
 
