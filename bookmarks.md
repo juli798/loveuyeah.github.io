@@ -948,7 +948,8 @@ Bookmarks
 
 <dt>[Download the Cocoon Browser Plugin](https://getcocoon.com/support/download)</dt>
 
-<dt>[Google Chrome下载地址](https://api.shuax.com/tools/getchrome)</dt>
+<dt>[Google Chrome下载地址](https://api.shuax.com/tools/getchrome)</dt> 
+ <dt>[Bestapk4u市場 - bestapk4u.com](https://www.bestapk4u.com/)</dt>
 
 <dt>[ApkHere市場 - ApkHere.com](https://www.apkhere.com/)</dt>
 
