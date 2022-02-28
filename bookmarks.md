@@ -1550,6 +1550,8 @@ Bookmarks
 
 <dt>[📖 Instapaper](javascript:location.href%20%3D%20%22https%3A%2F%2Fwww.instapaper.com%2Ftext%3Fu%3D%22%20%2B%20encodeURIComponent(location.href)%3B)</dt>
 
+<dt>[要开始使用以便您开始从广告中获利，请将您的博客连接到(https://bestapk4u.com/)</dt>
+	
 <dt>[推送](https://www.acfun.cn/member/#area=push)</dt>
 
 <dt>[Google アラート - ウェブ上の面白い新着コンテンツをチェック](https://www.google.com/alerts#)</dt>
